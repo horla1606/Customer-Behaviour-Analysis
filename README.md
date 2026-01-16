@@ -58,5 +58,20 @@ An in-depth customer segmentation and profitability analysis conducted for a ret
 *   **The Story is Key:** Translating data segments into relatable customer personas (e.g., "At-Risk Spender") is crucial for driving business action.
 *   **Actionability Over Complexity:** The most valuable analysis directly leads to specific, testable recommendations for the business team.
 
+## 📊 Dashboard Visuals
+
+### 1. Customer Segmentation & RFM Analysis
+![Customer Segmentation Dashboard](https://i.imgur.com/sv0lfBn.png)
+*This dashboard shows the core RFM (Recency, Frequency, Monetary) analysis, segmenting customers into four distinct behavioral groups and validating the 80/20 revenue rule.*
+
+### 2. Behavioral Insights & Trend Analysis
+![Customer Behavior Trends](https://i.imgur.com/A0FhbAK.png)
+
+*Detailed analysis of purchasing trends, customer engagement patterns, and behavioral insights that inform targeted marketing strategies.*
+
+### 3. Strategic Recommendations Framework
+![Marketing Strategy Framework](https://i.imgur.com/stZMnVq.png)
+*A visual framework mapping each customer segment to specific, actionable marketing interventions designed to improve retention and lifetime value.*
+
 ---
 *This project demonstrates the application of core customer analytics techniques to solve a real business problem. For questions or opportunities.*
